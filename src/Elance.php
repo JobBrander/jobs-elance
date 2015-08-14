@@ -157,8 +157,8 @@ class Elance extends AbstractProvider
      */
     public function getUrl()
     {
-        return 'https://api.elance.com/api2/jobs/jobs'.
-            '&access_token='.$this->token.
+        return 'https://api.elance.com/api2/jobs'.
+            '?access_token='.$this->token.
             $this->getQueryString();
     }
 
