@@ -9,6 +9,8 @@
 
 This package provides Elance Jobs API support for the JobBrander's [Jobs Client](https://github.com/JobBrander/jobs-common).
 
+*This package is intended to be used for communicating with the Elance's API after you've secured an access token from your users. To authenticate users and retrieve access tokens, use [stevenmaguire/oauth2-elance](https://github.com/stevenmaguire/oauth2-elance).*
+
 ## Installation
 
 To install, use composer:
