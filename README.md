@@ -7,7 +7,8 @@
 [![Quality Score](https://img.shields.io/scrutinizer/g/JobBrander/jobs-elance.svg?style=flat-square)](https://scrutinizer-ci.com/g/JobBrander/jobs-elance)
 [![Total Downloads](https://img.shields.io/packagist/dt/jobbrander/jobs-elance.svg?style=flat-square)](https://packagist.org/packages/jobbrander/jobs-elance)
 
-This package provides Elance Jobs API support for the JobBrander's [Jobs Client](https://github.com/JobBrander/jobs-common).
+This package provides [Elance Jobs API](https://www.elance.com/q/api2/getting-started)
+support for the JobBrander's [Jobs Client](https://github.com/JobBrander/jobs-common).
 
 *This package is intended to be used for communicating with the Elance's API after you've secured an access token from your users. To authenticate users and retrieve access tokens, use [stevenmaguire/oauth2-elance](https://github.com/stevenmaguire/oauth2-elance).*
 
